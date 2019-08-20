@@ -1,0 +1,5 @@
+IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Referer: http://127.0.0.1:8000/haha.html
+{u'lang': u'zh', u'domain': u'127.0.0.1', u'title': u'', u'referrer': u'', u'screen': u'1920x1080', u'charset': u'UTF-8', u'pid': u'vvbsssj', u'toplocation': u'http://127.0.0.1:8000/haha.html', u'platform': u'Linux x86_64', u'probeName': u'aaa', u'cookie': u'PGADMIN_LANGUAGE=en; user_id=b8dcc09076fc544a6df354681122f842; user=Z2hhc3Q6MQ; csrftoken=wB3z92gZYRX6NBHsNZLa9qbEWTF3DGm1btso6Oscy4kcHdfIaJqVdPt87tsoavUm; ps=1', u'location': u'http://127.0.0.1:8000/haha.html', u'plugins': u'Chrome PDF Plugin,Portable Document Format|Chrome PDF Viewer,|Native Client,|', u'date': u'1566290489975'}
+
